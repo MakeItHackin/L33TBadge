@@ -10,18 +10,16 @@ TBD
 Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
 
 ## DESCRIPTION:  
-This 'Learn How to Solder Badge' is inspired by the Letterman patches found on high school jackets, to keep in theme with the DEF CON 30 "Homecoming" theme this year.  It is a DIY kit and does not come assembled.  You will require a soldering iron, solder, and flush cutters to assemble this kit.  A YouTube demonstration will be available for follow-along and I highly encourage you to watch the video BEFORE assembling.
+The L33T Badge electrifies your Official DEF CON 31 Badge! The Official DEF CON 31 Badge is not going to be electronic this year (2023). Although we don't know what it looks like yet, DEF CON announced there will be a "chamber" in the badge in which you can insert... anything you want. The L33T Badge slides into that chamber (see reference pictures).  Stickers and Googly Eyes are also included :) The orange "badge simulator" you see in the photos is for reference only and is not included.
 
-This electronics kit is a great project for those people who want to learn how to solder or already know how to solder!
+This Badge is a Learn-How-to-Solder kit and features four LED 16-segment displays which you can customize and configure to display a word, numbers, leet speak, etc (up to four characters).  The four static characters are configured with solder pads on the back of the badge and can be reconfigured by changing which pads are soldered. It also features three eye-catching color-changing LEDs.  
 
-The kit features a circuit board, components, and a lanyard so you can wear it around your neck when finished :)
+The L33T badge is powered by a single AA battery, and three are included with your purchase! One battery should last you around 10-12 hours, so the three batteries should last you Friday, Saturday, and Sunday at DEF CON!
 
-The circuit is known as an "Astable Multivibrator," which means that the top two LEDs will alternate flashing on and off. The lower left LED will turn on when the button is pressed. The lower right LED turns on when the power is on.
-
-The two SAO ports are meant for low-power SAOs only.  Since the badge is powered by CR2032 batteries, they're not capable of outputting a lot of current.  SAOs with a few LEDs should be fine.  Please note that if SAO ports are used, the amount of current that is drawn may affect the flash-rate of the top two LEDs on the badge.  See YouTube video for reference.  Also, the power for the two SAO ports is independent of the power switch.  I have found that applying a fix to the board seems to yield better performance on the SAOs.  A wire and knife are needed to apply the fix and is referenced in the YouTube video.
+The mini lanyard that comes with the badge is meant to help stabilize and secure the L33T Badge to the Official DEF CON 31 Badge. Insert the lanyard through the circuit board and secure it to your badge or main lanyard. This provides safety in case the board were to separate from the badge.
 
 Kit Includes:  
-Circuit Board, Lanyard, LEDs (Red, Yellow, Blue, Green), Transistors, Capacitors, Resistors, Voltage Regulator, SAO Connectors, SAO Kit, Diode, Switch, Button, Battery Holders, Batteries, DEF CON 30 Homecoming Stickers
+Circuit Board, 16 Segment LED Displays, Mini Lanyard, Color Changing LEDs, 100uF Capacitor, 68 Ohm and 100 Ohm Resistors, Boost Converter, Switch, Battery Holder, AA Batteries, Stickers, Googly Eyes
 
 ## TOOLS AND MATERIALS:  
 The only required tools in this tutorial are: a Soldering Iron, Solder, and Flush Cutters.  
