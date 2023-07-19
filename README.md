@@ -1,5 +1,8 @@
 # DEF CON 31 - L33T Badge (soldering kit)
 
+![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/dc31.jpg)
+
+
 ## PURCHASE A KIT:
 https://www.tindie.com/products/30972/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
