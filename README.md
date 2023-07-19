@@ -7,7 +7,7 @@
 https://www.tindie.com/products/30972/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-TBD 
+https://youtu.be/m43cauS7Rvk  
 
 ## INSTRUCTIONS:  
 Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
