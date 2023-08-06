@@ -11,6 +11,8 @@ https://youtu.be/m43cauS7Rvk
 
 ## INSTRUCTIONS:  
 Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
+![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/how%20to%20insert%20-%20leet%20badge.jpg)
+![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/LEET%20TROUBLESHOOTING.jpg)
 
 ## DESCRIPTION:  
 The L33T Badge electrifies your Official DEF CON 31 Badge! The Official DEF CON 31 Badge is not going to be electronic this year (2023). Although we don't know what it looks like yet, DEF CON announced there will be a "chamber" in the badge in which you can insert... anything you want. The L33T Badge slides into that chamber (see reference pictures).  Stickers and Googly Eyes are also included :) The orange "badge simulator" you see in the photos is for reference only and is not included.
