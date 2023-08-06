@@ -12,6 +12,8 @@ https://youtu.be/m43cauS7Rvk
 ## INSTRUCTIONS:  
 Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/how%20to%20insert%20-%20leet%20badge.jpg)
+
+## TROUBLESHOOTING:  
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/LEET%20TROUBLESHOOTING.jpg)
 
 ## DESCRIPTION:  
