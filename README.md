@@ -10,6 +10,7 @@ https://www.tindie.com/products/30972/  or purchase at Hacker Warehouse at DEF C
 https://youtu.be/m43cauS7Rvk  
 
 ## INSTRUCTIONS:  
+Missing a part?  Send me a message on Github, Twitter, Mastodon, Instagram
 Download the attached PDF for instructions.  Please watch YouTube video tutorial.  
 Soldering supplies and equipment will be available in the Hardware Hacking Village.  
 
