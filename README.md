@@ -4,7 +4,7 @@
 
 
 ## PURCHASE A KIT:
-https://www.tindie.com/products/30972/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
+https://www.tindie.com/products/30972/
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
 https://youtu.be/m43cauS7Rvk  
