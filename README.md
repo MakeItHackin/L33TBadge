@@ -2,7 +2,6 @@
 
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/dc31.jpg)
 
-
 ## PURCHASE A KIT:
 https://www.tindie.com/products/30972/
 
